@@ -1,0 +1,52 @@
+body{
+    background-color: #f2e9e6;
+    font-family: 'Cinzel', serif;
+}
+#newyorktimes{
+    text-align: center;
+    margin-top: 2px;
+    
+}
+.container{
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+#head{
+    color: white;
+}
+.jumbotron{
+    background-color: #24395b;
+    box-sizing: content-box!important;
+}
+#form{
+    border: 1px solid black;
+    background-color: white;
+    
+}
+#param{
+    background-color: #24395b;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+form{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-2, .col-3{
+    padding-bottom: 5px!important;
+}
+#article{
+    background-color: #24395b;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+#articles{
+    margin-top: 10px;
+    border: 1px solid black;
+    background-color: white;
+    margin-bottom: 10px;
+}
